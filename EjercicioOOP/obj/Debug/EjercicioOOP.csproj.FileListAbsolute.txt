@@ -1,0 +1,7 @@
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\bin\Debug\EjercicioOOP.exe.config
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\bin\Debug\EjercicioOOP.exe
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\bin\Debug\EjercicioOOP.pdb
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\obj\Debug\EjercicioOOP.csprojAssemblyReference.cache
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\obj\Debug\EjercicioOOP.csproj.CoreCompileInputs.cache
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\obj\Debug\EjercicioOOP.exe
+D:\Juslan\UNIVERSIDAD\7 semestre\Arquitectura del software\EjercicioOOP\EjercicioOOP\obj\Debug\EjercicioOOP.pdb
